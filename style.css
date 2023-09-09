@@ -1,0 +1,7 @@
+.id{
+    background-color: #0000ff;
+    width: 300px;
+    border: 5px solid #ffff00;
+    text-align: center;
+    text-shadow: -1px 2px 3px #000;
+}
